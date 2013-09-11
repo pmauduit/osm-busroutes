@@ -7,7 +7,7 @@ A quick n' dirty way to render bus routes from OpenStreetMap into a single HTML 
 # setup
 
 1. Clone the repository
-2. Install a postgis-enabled database named osm
+2. Install a postgis-enabled database named osm, as well as osm2pgsql
 3. Edit the busroutes.sh to suit the city you are targetting, e.g. (for Digne-les-Bains):
 
 ```bash
