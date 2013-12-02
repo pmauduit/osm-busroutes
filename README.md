@@ -28,3 +28,7 @@ then clicking "export data" on the left once you are on the expected zone.
 ```
 
 A file `CITYNAME.html` will then be generated.
+
+# Video
+
+[![Using osm-busroutes](http://img.youtube.com/vi/h9-e7r13ZbI/0.jpg)](http://www.youtube.com/watch?v=h9-e7r13ZbI)
